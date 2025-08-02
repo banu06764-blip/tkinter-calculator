@@ -11,11 +11,6 @@ A simple calculator app built using **Python** and **Tkinter**, completely devel
 
 ---
 
-## 🖼️ Screenshots
-(Add a screenshot of your app UI running on your phone here)
-
----
-
 ## 🚀 How to Run
 
 1. Install Python 3.x
