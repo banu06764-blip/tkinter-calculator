@@ -17,4 +17,4 @@ A simple calculator app built using **Python** and **Tkinter**, completely devel
 2. Ensure Tkinter is installed (default in Python)
 3. Run the program:
    ```bash
-   python calculator.py
+   python main.py
